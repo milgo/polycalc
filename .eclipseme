@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipsemeMetadata jad="Kalkulator.jad" version="1.7.9">
+   <device group="Oracle Java(TM) Platform Micro Edition SDK 3.4" name="JavaMEPhone1"/>
+   <signing signProject="false"/>
+</eclipsemeMetadata>
